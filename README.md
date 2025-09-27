@@ -129,7 +129,7 @@ npm start
 ## 新增页面
 
 ### 无线音频流媒体解决方案页面 (`/solutions/wireless-streaming`)
-基于 [HankSound无线音频流媒体解决方案页面](https://www.HankSound.com/wireless-audio-streaming-solution/) 实现，包含：
+基于 [HankSound无线音频流媒体解决方案页面](https://hanksound.github.io/wireless-audio-streaming-solution/) 实现，包含：
 
 - **WirelessStreamingHero**: 页面英雄区域，展示解决方案概述
 - **ApplicationsSection**: 应用场景展示（别墅、家庭、度假村、餐厅、户外、购物中心）
@@ -138,7 +138,7 @@ npm start
 - **CTASection**: 行动号召部分，包含联系方式和报价请求
 
 ### 家庭音频系统产品页面 (`/products/home-audio-system`)
-基于 [HankSound家庭音频系统产品页面](https://www.HankSound.com/home-audio-system-products/) 实现，包含：
+基于 [HankSound家庭音频系统产品页面](https://hanksound.github.io/home-audio-system-products/) 实现，包含：
 
 - **HomeAudioHero**: 页面英雄区域，展示无线音响系统概述和升级方法
 - **ProductsShowcase**: 5个主要产品展示（A50放大器、LP10流媒体、HA400网络设备、无线扬声器、amp2.0音频板）

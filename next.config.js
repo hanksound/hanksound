@@ -5,8 +5,13 @@ const withNextIntl = require('next-intl/plugin')(
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // 静态导出配置
+  output: 'export',
+  distDir: 'out',
+  // 禁用图片优化（静态导出不支持）
   images: {
-    domains: ['www.HankSound.com'],
+    unoptimized: true,
+    domains: ['hanksound.github.io'],
   },
   // 优化 SSR 性能
   compiler: {
