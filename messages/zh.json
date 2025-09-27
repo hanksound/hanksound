@@ -1,0 +1,582 @@
+{
+  "navigation": {
+    "home": "首页",
+    "solutions": "解决方案",
+    "products": "产品",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "无线音频系统",
+    "subtitle": "15年ODM OEM音频放大器",
+    "description": "专业的全屋音频解决方案提供商，拥有超过15年的OEM/ODM经验。我们提供私人定制和应用开发服务。",
+    "getStarted": "开始使用",
+    "watchDemo": "观看演示",
+    "amplifier": "放大器",
+    "streamer": "流媒体",
+    "board": "主板",
+    "module": "模块",
+    "wifi": "WiFi",
+    "bluetooth": "蓝牙",
+    "app": "应用"
+  },
+  "about": {
+    "title": "为什么选择HankSound？",
+    "description": "我们致力于提供最高质量的多房间音频解决方案，拥有专业的服务和创新技术。",
+    "features": {
+      "professionalTeam": {
+        "title": "专业团队",
+        "description": "超过15年的OEM/ODM经验，拥有专业的研发团队"
+      },
+      "qualityProducts": {
+        "title": "优质产品",
+        "description": "尖端技术和高质量的音频解决方案"
+      },
+      "quickResponse": {
+        "title": "快速响应",
+        "description": "对所有客户咨询提供快速专业的响应"
+      },
+      "customSolutions": {
+        "title": "定制解决方案",
+        "description": "根据您的需求提供私人定制和应用开发服务"
+      }
+    }
+  },
+  "solutions": {
+    "hero": {
+      "title": "无线流媒体音频解决方案专家",
+      "subtitle": "您是否正在寻找一个易于集成、功能强大且易于使用的无线音频流媒体解决方案？您来对地方了！",
+      "description": "HankSound提供易于使用但功能强大且可靠的特性，以及简单易集成的无线音频流媒体解决方案。",
+      "getQuotation": "立即获取报价",
+      "learnMore": "了解更多",
+      "sectionTitle": "无线音频流媒体提供音频解决方案应用",
+      "technologies": {
+        "wifi": {
+          "title": "WiFi流媒体",
+          "description": "高速无线连接"
+        },
+        "bluetooth": {
+          "title": "蓝牙音频",
+          "description": "蓝牙5.0流媒体"
+        },
+        "auracast": {
+          "title": "Auracast",
+          "description": "下一代音频广播"
+        },
+        "mobile": {
+          "title": "移动控制",
+          "description": "基于应用的控制"
+        }
+      }
+    },
+    "applications": {
+      "title": "应用场景",
+      "subtitle": "我们的无线音频解决方案设计用于各种环境和使用场景",
+      "categories": {
+        "villa": {
+          "title": "别墅",
+          "description": "为高端住宅物业提供的豪华家庭音频系统"
+        },
+        "home": {
+          "title": "家庭",
+          "description": "为日常生活提供的完整家庭音频解决方案"
+        },
+        "resort": {
+          "title": "度假村",
+          "description": "为酒店和旅游业提供的专业音频系统"
+        },
+        "restaurant": {
+          "title": "餐厅",
+          "description": "为用餐体验提供的环境音频解决方案"
+        },
+        "garden": {
+          "title": "花园",
+          "description": "为花园和露台区域提供的户外音频系统"
+        },
+        "mall": {
+          "title": "商场",
+          "description": "为购物中心提供的商业音频系统"
+        },
+        "hotel": {
+          "title": "酒店",
+          "description": "为客人体验提供的酒店音频解决方案"
+        },
+        "office": {
+          "title": "办公室",
+          "description": "为工作环境提供的专业音频系统"
+        }
+      },
+      "customSolutions": {
+        "title": "为每个环境定制的解决方案",
+        "description": "无论您需要小型家庭办公室的音频还是大型商业空间的音频，我们的无线流媒体解决方案都可以根据您的具体要求进行定制，在任何环境中提供卓越的音频质量。"
+      }
+    },
+    "advantages": {
+      "title": "为什么选择我们的解决方案",
+      "subtitle": "我们提供具有尖端技术的综合无线音频流媒体解决方案",
+      "categories": {
+        "development": {
+          "title": "开发",
+          "description": "我们不断将新想法和技术投资到我们的产品中，让您有广泛的产品选择，以最适合您的项目。"
+        },
+        "update": {
+          "title": "更新",
+          "description": "我们定期通过OTA更新我们的软件，我们持续修复错误、改善用户体验并实施新功能。"
+        },
+        "stability": {
+          "title": "稳定性",
+          "description": "我们的设备设计为24/7工作，您可以连续不间断地播放音乐，并随时访问控制系统。"
+        },
+        "smartHome": {
+          "title": "智能家居解决方案",
+          "description": "我们提供易于集成的API文档，我们还有智能家居系统的驱动程序。如果您有功能请求或想要集成到智能家居系统，我们可以帮助您实现。"
+        },
+        "costEffective": {
+          "title": "成本效益",
+          "description": "我们的解决方案提供卓越的性价比，以竞争价格提供专业级音频质量。"
+        },
+        "fastDelivery": {
+          "title": "快速交付",
+          "description": "我们理解及时交付的重要性，并高效工作以满足您的项目截止日期。"
+        }
+      },
+      "stats": {
+        "yearsExperience": "年经验",
+        "productsAvailable": "可用产品",
+        "countriesServed": "服务国家",
+        "supportAvailable": "可用支持"
+      }
+    },
+    "technologies": {
+      "title": "我们可以为无线音频流媒体解决方案提供的技术",
+      "subtitle": "现代无线流媒体解决方案的综合音频技术栈",
+      "categories": {
+        "wireless": {
+          "title": "无线连接",
+          "description": "WiFi、蓝牙和Auracast技术"
+        },
+        "audio": {
+          "title": "音频处理",
+          "description": "高质量放大和处理"
+        },
+        "mobile": {
+          "title": "移动控制",
+          "description": "iOS和Android应用程序"
+        },
+        "smart": {
+          "title": "智能集成",
+          "description": "家庭自动化和API集成"
+        },
+        "wifi6": {
+          "title": "WiFi 6技术",
+          "description": "最新WiFi标准，提供更快、更可靠的连接"
+        },
+        "bluetooth52": {
+          "title": "蓝牙5.2",
+          "description": "增强的音频质量和扩展范围"
+        },
+        "auracast": {
+          "title": "Auracast支持",
+          "description": "下一代音频广播技术"
+        },
+        "ota": {
+          "title": "OTA更新",
+          "description": "空中固件更新，持续改进"
+        }
+      },
+      "highlight": {
+        "title": "音频技术",
+        "description": "我们全面的音频技术栈确保最高质量的无线流媒体体验，支持无损音频格式、多区域同步以及与现有系统的无缝集成。"
+      }
+    },
+    "cta": {
+      "title": "准备改造您的音频体验了吗？",
+      "subtitle": "与我们的团队联系，讨论您的无线音频流媒体需求",
+      "getQuote": "获取报价",
+      "contactUs": "联系我们",
+      "email": {
+        "title": "发送邮件",
+        "description": "发送您的需求，我们将在24小时内提供详细报价。"
+      },
+      "phone": {
+        "title": "致电我们",
+        "description": "周一至周五上午9:00至下午6:00（GMT+8）可用。"
+      },
+      "benefits": {
+        "quickResponse": {
+          "title": "快速响应",
+          "description": "24小时内获取报价"
+        },
+        "experience": {
+          "title": "年经验",
+          "description": "专业音频解决方案"
+        },
+        "products": {
+          "title": "产品",
+          "description": "广泛的解决方案"
+        }
+      }
+    }
+  },
+  "products": {
+    "title": "我们的产品",
+    "description": "全面的无线音频解决方案，满足各种需求",
+    "viewAll": "查看所有产品",
+    "hero": {
+      "title": "无线音响系统",
+      "subtitle": "专业的无线音频设备",
+      "description": "从放大器到扬声器，我们提供完整的无线音频产品线",
+      "features": {
+        "amplifiers": {
+          "title": "无线放大器",
+          "description": "高质量的多房间音频放大器"
+        },
+        "wifi": {
+          "title": "Wi-Fi连接",
+          "description": "稳定的无线网络连接"
+        },
+        "bluetooth": {
+          "title": "蓝牙音频",
+          "description": "与现代设备的轻松连接"
+        }
+      }
+    },
+    "categories": {
+      "title": "我们的产品类别",
+      "subtitle": "全面的无线音频解决方案，满足各种需求",
+      "keyFeatures": "主要特性",
+      "productsInCategory": "此类别中的产品",
+      "amplifier": {
+        "title": "无线音频放大器",
+        "description": "高质量无线音频放大器，适用于多房间设置"
+      },
+      "amplifierProducts": [
+        "A100 无线多房间全数字HiFi放大器",
+        "H50 无线多房间全数字HiFi放大器", 
+        "M50 80Wx2 高分辨率无线立体声放大器",
+        "A50+ 多区域放大器",
+        "A30+ 无线音频放大器",
+        "B50 BT立体声放大器（带Auracast发射器）",
+        "B50SE BT立体声放大器",
+        "SA50+ 无线多区域放大器",
+        "SA50+ 无线音频放大器"
+      ],
+      "amplifierFeatures": ["多房间音频", "高分辨率", "Wi-Fi和蓝牙", "数字处理"],
+      "preamplifier": {
+        "title": "无线音频前置放大器",
+        "description": "先进的无线音频流媒体和前置放大器"
+      },
+      "preamplifierProducts": [
+        "LP10 无线音乐流媒体",
+        "BT10 无线音频发射器",
+        "BR10 无线音频音乐流媒体",
+        "BP50 无线立体声前置放大器（带音频发射器）",
+        "S10+ 无线网络流媒体",
+        "S50 Pro+ 无线音频流媒体"
+      ],
+      "preamplifierFeatures": ["Google Cast", "AirPlay 2", "DLNA支持", "高分辨率音频"],
+      "networkDevice": {
+        "title": "网络音频设备",
+        "description": "专业的网络音频设备，适用于商业用途"
+      },
+      "networkDeviceProducts": [
+        "HA400 网络4区域放大器",
+        "H400 网络4区域前置放大器"
+      ],
+      "networkDeviceFeatures": ["4区域控制", "RS-232集成", "专业级", "自动化就绪"],
+      "speaker": {
+        "title": "扬声器",
+        "description": "高性能无线扬声器，适用于任何环境"
+      },
+      "speakerProducts": [
+        "WBC65 6.5英寸无线多房间天花板扬声器",
+        "CK30C 3英寸高清嵌入式天花板扬声器",
+        "RK525 5.25英寸2路60W全频嵌入式天花板扬声器"
+      ],
+      "speakerFeatures": ["天花板安装", "无线多房间", "高清", "易于安装"],
+      "audioBoard": {
+        "title": "无线音频板",
+        "description": "模块化音频板，用于定制音频解决方案"
+      },
+      "audioBoardProducts": [
+        "Up2Cast Amp多流LE音频板",
+        "无线音频板Mini",
+        "无线音频板Pro",
+        "无线音频板2.0 AMP",
+        "无线音频板2.1声音流放大器",
+        "无线音频板AMP单声道",
+        "无线音频板AMP 2.1",
+        "无线音频板HD DAC"
+      ],
+      "audioBoardFeatures": ["DIY友好", "模块化设计", "定制解决方案", "易于集成"],
+      "audioModule": {
+        "title": "无线音频模块",
+        "description": "紧凑的Wi-Fi模块，用于音频集成"
+      },
+      "audioModuleProducts": [
+        "Wi-Fi模块A31",
+        "Wi-Fi模块A97",
+        "Wi-Fi模块A98"
+      ],
+      "audioModuleFeatures": ["紧凑尺寸", "Wi-Fi支持", "易于集成", "成本效益"]
+    },
+    "showcase": {
+      "title": "特色产品",
+      "subtitle": "发现我们最受欢迎的无线音频解决方案",
+      "keyFeatures": "主要特性",
+      "learnMore": "了解更多",
+      "products": {
+        "amplifier": {
+          "title": "无线立体声放大器"
+        },
+        "amplifierSubtitle": "立体声放大器的演进",
+        "amplifierDescription": "立体声放大器已经走过了很长的路。它们现在拥抱数字技术，随着音乐源演变为包括笔记本电脑、智能手机和流媒体服务，与时俱进。",
+        "amplifierFeatures": [
+          "内置数模转换器（DAC）",
+          "用于直接连接的USB端口",
+          "蓝牙和Wi-Fi流媒体功能",
+          "高分辨率音频支持",
+          "多房间音频功能"
+        ],
+        "amplifierProductName": "BT音频放大器A50",
+        "preamplifier": {
+          "title": "无线音频前置放大器"
+        },
+        "preamplifierSubtitle": "重振您的Hi-Fi系统",
+        "preamplifierDescription": "HankSound的无线前置放大器为您的旧Hi-Fi系统注入新的活力。它提供对多样化在线内容和本地音频的访问，包括流媒体服务，将您的系统带入现代时代。",
+        "preamplifierFeatures": [
+          "访问在线流媒体服务",
+          "本地音频库支持",
+          "与现代设备无缝集成",
+          "易于设置和控制",
+          "增强现有系统功能"
+        ],
+        "preamplifierProductName": "LP10 Google Cast流媒体",
+        "networkDevice": {
+          "title": "网络音频设备"
+        },
+        "networkDeviceSubtitle": "智能生态系统集成",
+        "networkDeviceDescription": "专为集成商设计，RS-232和12V触发器支持与Control4、Crestron等的自动化。AirPlay 2和DLNA支持确保与Apple/Sonos中心环境的兼容性。",
+        "networkDeviceFeatures": [
+          "RS-232和12V触发器支持",
+          "Control4和Crestron集成",
+          "AirPlay 2和DLNA兼容性",
+          "4区域放大",
+          "专业安装就绪"
+        ],
+        "networkDeviceProductName": "HA400 4区域放大器",
+        "speaker": {
+          "title": "无线音频扬声器"
+        },
+        "speakerSubtitle": "轻松现代化任何空间",
+        "speakerDescription": "HankSound的无线扬声器将过时的音频设置转换为统一的多房间生态系统。为每个房间解锁流媒体服务、本地库和语音控制——无需重新布线或翻新。",
+        "speakerFeatures": [
+          "无需结构更改",
+          "适合现有天花板/墙壁开口",
+          "与旧放大器的混合兼容性",
+          "全屋音频自由",
+          "面向未来的集成"
+        ],
+        "speakerProductName": "无线环绕扬声器",
+        "audioBoard": {
+          "title": "无线音频板"
+        },
+        "audioBoardSubtitle": "改造您的家庭音频系统",
+        "audioBoardDescription": "您是否曾经想要制作自己的扬声器或将旧的扬声器升级为无线？使用HankSound的无线音频板，这比您想象的要容易。",
+        "audioBoardFeatures": [
+          "DIY友好设计",
+          "将无源扬声器转换为无线",
+          "易于安装过程",
+          "定制音频解决方案",
+          "模块化和灵活"
+        ],
+        "audioBoardProductName": "无线音频板2.0"
+      }
+    },
+    "whyChooseUs": {
+      "title": "为什么选择我们？",
+      "subtitle": "具有无与伦比价值和质量的专业音频解决方案",
+      "reasons": {
+        "expertise": {
+          "title": "专业专长"
+        },
+        "expertiseDesc": "HankSound专注于流媒体音频系统，我们进行自己的硬件和软件设计、流媒体音频服务集成和制造。",
+        "value": {
+          "title": "最佳价值"
+        },
+        "valueDesc": "我们的产品与其他知名品牌具有相同水平的质量，但价格只有一半。",
+        "updates": {
+          "title": "持续更新"
+        },
+        "updatesDesc": "我们持续升级产品软件并修复错误，确保您的投资保持最新。",
+        "customer": {
+          "title": "以客户为中心"
+        },
+        "customerDesc": "我们乐于听取用户反馈和建议，使我们的产品更好。",
+        "quality": {
+          "title": "质量保证"
+        },
+        "qualityDesc": "专业制造标准，严格的质量控制流程。",
+        "innovation": {
+          "title": "创新驱动"
+        },
+        "innovationDesc": "用户反馈和建议始终是我们新家庭音频产品的良好创意来源。"
+      },
+      "impact": {
+        "title": "我们的影响",
+        "subtitle": "在全球范围内提供卓越的无线音频解决方案"
+      },
+      "stats": {
+        "categories": "产品类别",
+        "experience": "经验年限",
+        "products": "可用产品",
+        "countries": "服务国家"
+      },
+      "cta": {
+        "title": "准备改造您的音频体验了吗？",
+        "description": "加入数千名使用HankSound产品升级音频系统的满意客户。以无与伦比的价格获得专业品质的无线音频。",
+        "button": "探索我们的产品"
+      }
+    }
+  },
+  "services": {
+    "title": "我们的服务",
+    "description": "从概念到完成，我们为您的多房间音频需求提供全面的解决方案。",
+    "categories": {
+      "hardwareDesign": {
+        "title": "硬件设计",
+        "description": "多房间音频解决方案的定制硬件设计"
+      },
+      "softwareDesign": {
+        "title": "软件设计",
+        "description": "无线音频流媒体系统软件开发"
+      },
+      "idmdDesign": {
+        "title": "ID&MD设计",
+        "description": "音频产品的工业和机械设计"
+      },
+      "appDevelopment": {
+        "title": "应用开发",
+        "description": "多区域音频系统移动应用程序"
+      },
+      "manufacture": {
+        "title": "制造",
+        "description": "全屋音频系统的完整制造服务"
+      },
+      "componentsDistributor": {
+        "title": "组件分销商",
+        "description": "多房间音响系统的音频组件分销"
+      }
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们很乐意为您提供帮助",
+    "description": "无论您有任何问题或需要技术支持，我们的团队随时为您服务",
+    "name": "姓名",
+    "email": "邮箱",
+    "company": "公司",
+    "message": "消息",
+    "send": "发送消息",
+    "phone": "电话",
+    "address": "地址",
+    "form": {
+      "title": "发送消息",
+      "subtitle": "填写下面的表单，我们会尽快回复您",
+    "name": "姓名",
+    "email": "邮箱",
+    "message": "消息",
+    "send": "发送消息",
+      "sending": "发送中...",
+      "success": "消息发送成功！我们会尽快回复您。",
+      "error": "发送失败，请稍后重试。",
+      "placeholders": {
+        "name": "请输入您的姓名",
+        "email": "请输入您的邮箱地址",
+        "message": "请输入您的消息内容"
+      },
+      "errors": {
+        "name": "请输入您的姓名。",
+        "email": "请输入有效的邮箱地址。",
+        "message": "请输入消息内容。"
+      }
+    },
+    "supportOptions": {
+      "email": {
+        "title": "邮件支持",
+        "description": "24小时内快速响应"
+      },
+      "liveChat": {
+        "title": "在线聊天",
+        "description": "即时支持，随时为您服务"
+      },
+      "b2b": {
+        "title": "B2B销售",
+        "description": "直接联系我们的CEO"
+      },
+      "global": {
+        "title": "全球支持",
+        "description": "为全球客户提供服务"
+      }
+    },
+    "b2b": {
+      "title": "B2B销售",
+      "subtitle": "对于OEM/ODM咨询和业务合作，请直接联系我们的CEO",
+      "ceo": {
+        "name": "Ryan",
+        "title": "HankSound CEO",
+        "emailLabel": "邮箱",
+        "forLabel": "适用于",
+        "forDescription": "OEM/ODM或其他业务咨询",
+        "contactButton": "联系HankSound CEO"
+      },
+      "whyChoose": {
+        "title": "为什么选择HankSound进行B2B合作？",
+        "description": "凭借超过15年的OEM/ODM服务经验，我们提供符合最高行业标准的综合无线音频解决方案。"
+      },
+      "features": {
+        "oemOdm": {
+          "title": "OEM/ODM服务"
+        },
+        "oemOdmDesc": "根据您的品牌要求定制的音频解决方案",
+        "partnerships": {
+          "title": "业务合作"
+        },
+        "partnershipsDesc": "长期合作伙伴关系，实现共同成长和成功",
+        "ceoContact": {
+          "title": "直接CEO联系"
+        },
+        "ceoContactDesc": "来自我们领导团队的个人关注",
+        "prioritySupport": {
+          "title": "优先支持"
+        },
+        "prioritySupportDesc": "为业务咨询和技术支持提供专门服务"
+      },
+      "cta": {
+        "title": "准备开始您的项目了吗？",
+        "description": "今天就联系我们讨论您的需求，了解HankSound如何帮助您实现音频愿景。",
+        "button": "开始您的咨询"
+      }
+    }
+  },
+  "footer": {
+    "company": "HankSound",
+    "description": "专业的全屋音频解决方案提供商",
+    "allRightsReserved": "版权所有"
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "readMore": "阅读更多",
+    "getQuote": "获取报价",
+    "viewAll": "查看全部",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "description": "抱歉，您访问的页面不存在或已被移动。",
+    "backToHome": "返回首页",
+    "goBack": "返回上页",
+    "helpText": "如果您认为这是一个错误，请联系我们的支持团队。"
+  }
+}

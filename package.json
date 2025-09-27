@@ -1,0 +1,33 @@
+{
+  "name": "HankSound-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run build:css:once && next dev",
+    "build": "npm run build:css:once && next build",
+    "build:css:once": "npx tailwindcss -i ./public/css/globals.css -o ./public/css/output.css",
+    "build:css:watch": "npx tailwindcss -i ./public/css/globals.css -o ./public/css/output.css --watch",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^10.16.16",
+    "lucide-react": "^0.294.0",
+    "next": "14.0.4",
+    "next-intl": "^4.3.9",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}

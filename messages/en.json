@@ -1,0 +1,582 @@
+{
+  "navigation": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "products": "Products",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Wireless Audio System",
+    "subtitle": "15 years ODM OEM Audio Amplifier",
+    "description": "Professional multiroom audio solution provider with over 15 years of OEM/ODM experience. We offer private model and app development services.",
+    "getStarted": "Get Started",
+    "watchDemo": "Watch Demo",
+    "amplifier": "Amplifier",
+    "streamer": "Streamer",
+    "board": "Board",
+    "module": "Module",
+    "wifi": "WiFi",
+    "bluetooth": "Bluetooth",
+    "app": "App"
+  },
+  "about": {
+    "title": "Why Choose HankSound?",
+    "description": "We are committed to providing the highest quality multiroom audio solutions with professional service and innovative technology.",
+    "features": {
+      "professionalTeam": {
+        "title": "Professional Team",
+        "description": "Over 15 years of OEM/ODM experience with dedicated R&D team"
+      },
+      "qualityProducts": {
+        "title": "Quality Products",
+        "description": "Cutting-edge technology and high-quality audio solutions"
+      },
+      "quickResponse": {
+        "title": "Quick Response",
+        "description": "Fast and professional responses to all customer inquiries"
+      },
+      "customSolutions": {
+        "title": "Custom Solutions",
+        "description": "Private model and app development services tailored to your needs"
+      }
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "description": "Comprehensive range of wireless audio solutions for every need",
+    "viewAll": "View All Products",
+    "hero": {
+      "title": "Wireless Sound System",
+      "subtitle": "How to make your speakers into your home audio system",
+      "description": "Do you have wired speakers connected to a stereo receiver? Maybe you own self-powered speakers or a 2.1 system for movie nights. But all of your friends are buying smart speakers that they can talk to or at least play music on, and you want to participate in a wireless Revolution.",
+      "features": {
+        "amplifiers": {
+          "title": "Wireless Amplifiers",
+          "description": "High-quality wireless audio amplifiers for multiroom setups"
+        },
+        "wifi": {
+          "title": "Wi-Fi Streaming",
+          "description": "Seamless music streaming from any device"
+        },
+        "bluetooth": {
+          "title": "Bluetooth Audio",
+          "description": "Easy connection with modern devices"
+        }
+      }
+    },
+    "categories": {
+      "title": "Our Product Categories",
+      "subtitle": "Complete range of wireless audio solutions for every need",
+      "keyFeatures": "Key Features",
+      "productsInCategory": "Products in this category",
+      "amplifier": {
+        "title": "Wireless Audio Amplifier",
+        "description": "High-quality wireless audio amplifiers for multiroom setups"
+      },
+      "amplifierProducts": [
+        "A100 Wireless Multiroom Full Digital HiFi Amplifier",
+        "H50 Wireless Multiroom Full Digital HiFi Amplifier", 
+        "M50 80Wx2 High-Res Wireless Stereo Amplifier",
+        "A50+ Multi zone Amplifier",
+        "A30+ Wireless Audio Amplifier",
+        "B50 BT Stereo Amplifier with Auracast Transmitter",
+        "B50SE BT Stereo Amplifier",
+        "SA50+ Wireless Multi zone Amplifier",
+        "SA50+ Wireless Audio Amplifier"
+      ],
+      "amplifierFeatures": ["Multiroom Audio", "High-Resolution", "Wi-Fi & Bluetooth", "Digital Processing"],
+      "preamplifier": {
+        "title": "Wireless Audio Preamplifier",
+        "description": "Advanced wireless audio streamers and preamplifiers"
+      },
+      "preamplifierProducts": [
+        "LP10 Wireless Music Streamer",
+        "BT10 Wireless Audio Transmitter",
+        "BR10 Wireless Audio Music Streamer",
+        "BP50 Wireless Stereo Pre-Amplifier with Audio Transmitter",
+        "S10+ Wireless Network Streamer",
+        "S50 Pro+ Wireless Audio Streamer"
+      ],
+      "preamplifierFeatures": ["Google Cast", "AirPlay 2", "DLNA Support", "High-Res Audio"],
+      "networkDevice": {
+        "title": "Network Audio Device",
+        "description": "Professional network audio devices for commercial use"
+      },
+      "networkDeviceProducts": [
+        "HA400 Network 4 Zone Amplifier",
+        "H400 Network 4 Zone Preamplifier"
+      ],
+      "networkDeviceFeatures": ["4-Zone Control", "RS-232 Integration", "Professional Grade", "Automation Ready"],
+      "speaker": {
+        "title": "Speaker",
+        "description": "High-performance wireless speakers for any environment"
+      },
+      "speakerProducts": [
+        "WBC65 6.5″ Wireless Multiroom Ceiling Speaker",
+        "CK30C 3\" HD In-Ceiling Speaker",
+        "RK525 5.25″ 2 Way 60W Full Range In-Ceiling Speaker"
+      ],
+      "speakerFeatures": ["Ceiling Mount", "Wireless Multiroom", "High Definition", "Easy Installation"],
+      "audioBoard": {
+        "title": "Wireless Audio Board",
+        "description": "Modular audio boards for custom audio solutions"
+      },
+      "audioBoardProducts": [
+        "Up2Cast Amp Multi-Stream LE Audio Board",
+        "Wireless Audio Board Mini",
+        "Wireless Audio Board Pro",
+        "Wireless Audio Board 2.0 AMP",
+        "Wireless Audio Board 2.1 Sound Stream Amp",
+        "Wireless Audio Board AMP Mono",
+        "Wireless Audio Plate AMP 2.1",
+        "Wireless Audio Board HD DAC"
+      ],
+      "audioBoardFeatures": ["DIY Friendly", "Modular Design", "Custom Solutions", "Easy Integration"],
+      "audioModule": {
+        "title": "Wireless Audio Module",
+        "description": "Compact Wi-Fi modules for audio integration"
+      },
+      "audioModuleProducts": [
+        "Wi-Fi Module A31",
+        "Wi-Fi Module A97",
+        "Wi-Fi Module A98"
+      ],
+      "audioModuleFeatures": ["Compact Size", "Wi-Fi Enabled", "Easy Integration", "Cost Effective"]
+    },
+    "showcase": {
+      "title": "Featured Products",
+      "subtitle": "Discover our most popular wireless audio solutions",
+      "keyFeatures": "Key Features",
+      "learnMore": "Learn More",
+      "products": {
+        "amplifier": {
+          "title": "Wireless Stereo Amplifier"
+        },
+        "amplifierSubtitle": "Evolution of Stereo Amplifiers",
+        "amplifierDescription": "Stereo amplifiers have come a long way. They now embrace digital technology, keeping pace with the times as music sources evolved to include laptops, smartphones, and streaming services.",
+        "amplifierFeatures": [
+          "Built-in digital-to-analog converters (DACs)",
+          "USB ports for direct connection",
+          "Bluetooth and Wi-Fi streaming capabilities",
+          "High-resolution audio support",
+          "Multi-room audio functionality"
+        ],
+        "amplifierProductName": "BT Audio Amplifier A50",
+        "preamplifier": {
+          "title": "Wireless Audio Preamplifier"
+        },
+        "preamplifierSubtitle": "Revitalize Your Hi-Fi System",
+        "preamplifierDescription": "HankSound's wireless preamplifier breathes new life into your old Hi-Fi system. It grants access to diverse online content and local audio, including streaming services, bringing your system into the modern age.",
+        "preamplifierFeatures": [
+          "Access to online streaming services",
+          "Local audio library support",
+          "Seamless integration with modern devices",
+          "Easy setup and control",
+          "Enhanced functionality for existing systems"
+        ],
+        "preamplifierProductName": "LP10 Google Cast Streamer",
+        "networkDevice": {
+          "title": "Network Audio Device"
+        },
+        "networkDeviceSubtitle": "Smart Ecosystem Integration",
+        "networkDeviceDescription": "Designed for integrators, RS-232 and 12V triggers enable automation with Control4, Crestron, and more. AirPlay 2 and DLNA support ensure compatibility with Apple/Sonos-centric environments.",
+        "networkDeviceFeatures": [
+          "RS-232 and 12V trigger support",
+          "Control4 and Crestron integration",
+          "AirPlay 2 and DLNA compatibility",
+          "4-zone amplification",
+          "Professional installation ready"
+        ],
+        "networkDeviceProductName": "HA400 4 Zone Amplifier",
+        "speaker": {
+          "title": "Wireless Audio Speaker"
+        },
+        "speakerSubtitle": "Modernize Any Space, Effortlessly",
+        "speakerDescription": "HankSound's wireless speakers transform outdated audio setups into unified, multiroom ecosystems. Unlock streaming services, local libraries, and voice control for every room—without rewiring or renovations.",
+        "speakerFeatures": [
+          "Zero structural changes required",
+          "Fits existing ceiling/wall cutouts",
+          "Hybrid compatibility with old amplifiers",
+          "Whole-home audio freedom",
+          "Future-ready integrations"
+        ],
+        "speakerProductName": "Wireless Surround Speakers",
+        "audioBoard": {
+          "title": "Wireless Audio Board"
+        },
+        "audioBoardSubtitle": "Transform Your Home Audio System",
+        "audioBoardDescription": "Have you ever wanted to make your own speakers or upgrade your old ones to wireless? With HankSound's wireless audio board, this is easier than you might think.",
+        "audioBoardFeatures": [
+          "DIY-friendly design",
+          "Transform passive speakers to wireless",
+          "Easy installation process",
+          "Custom audio solutions",
+          "Modular and flexible"
+        ],
+        "audioBoardProductName": "Wireless Audio Board 2.0"
+      }
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Us?",
+      "subtitle": "Professional audio solutions with unmatched value and quality",
+      "reasons": {
+        "expertise": {
+          "title": "Specialized Expertise"
+        },
+        "expertiseDesc": "HankSound is specialized in streaming audio system, we do our own hardware and software design, streaming audio service integration and manufacture.",
+        "value": {
+          "title": "Best Value"
+        },
+        "valueDesc": "Our products have the same level of quality of other famous brand, but with only half the price.",
+        "updates": {
+          "title": "Continuous Updates"
+        },
+        "updatesDesc": "We continuously upgrade our product software and bug fixed, ensuring your investment stays current.",
+        "customer": {
+          "title": "Customer Focused"
+        },
+        "customerDesc": "We are open to listen to user feedbacks and suggestions to make our products better.",
+        "quality": {
+          "title": "Quality Assurance"
+        },
+        "qualityDesc": "Professional manufacturing standards with rigorous quality control processes.",
+        "innovation": {
+          "title": "Innovation Driven"
+        },
+        "innovationDesc": "User feedbacks and suggestions are always good idea source for our new home audio products."
+      },
+      "impact": {
+        "title": "Our Impact",
+        "subtitle": "Delivering excellence in wireless audio solutions worldwide"
+      },
+      "stats": {
+        "categories": "Product Categories",
+        "experience": "Years of Experience",
+        "products": "Products Available",
+        "countries": "Countries Served"
+      },
+      "cta": {
+        "title": "Ready to Transform Your Audio Experience?",
+        "description": "Join thousands of satisfied customers who have upgraded their audio systems with HankSound products. Get professional-quality wireless audio at an unbeatable price.",
+        "button": "Explore Our Products"
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "From concept to completion, we provide comprehensive solutions for your multiroom audio needs.",
+    "categories": {
+      "hardwareDesign": {
+        "title": "Hardware Design",
+        "description": "Custom hardware design for multiroom audio solutions"
+      },
+      "softwareDesign": {
+        "title": "Software Design", 
+        "description": "Wireless audio streaming system software development"
+      },
+      "idmdDesign": {
+        "title": "ID&MD Design",
+        "description": "Industrial and mechanical design for audio products"
+      },
+      "appDevelopment": {
+        "title": "App Development",
+        "description": "Multi-zone audio system mobile applications"
+      },
+      "manufacture": {
+        "title": "Manufacture",
+        "description": "Complete manufacturing services for whole home audio systems"
+      },
+      "componentsDistributor": {
+        "title": "Components Distributor",
+        "description": "Audio components distribution for multiroom sound systems"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Talk to Us",
+    "description": "Ready to transform your audio experience? Get in touch with our team for technical support, business inquiries, or to learn more about our wireless audio solutions.",
+    "name": "Name",
+    "email": "Email",
+    "company": "Company",
+    "message": "Message",
+    "send": "Send Message",
+    "phone": "Phone",
+    "address": "Address",
+    "form": {
+      "title": "Get in Touch",
+      "subtitle": "Send us a message and we'll get back to you as soon as possible",
+      "name": "Name",
+      "email": "Email",
+      "message": "Your Message",
+      "send": "Send",
+      "sending": "Sending...",
+      "success": "Message Sent!",
+      "error": "Message failed. Please try again.",
+      "placeholders": {
+        "name": "Please enter your name",
+        "email": "Please enter a valid email",
+        "message": "Please enter a message"
+      },
+      "errors": {
+        "name": "Please enter your name.",
+        "email": "Please enter a valid email.",
+        "message": "Please enter a message."
+      }
+    },
+    "supportOptions": {
+      "email": {
+        "title": "Email Support",
+        "description": "Quick response within 24 hours"
+      },
+      "liveChat": {
+        "title": "Live Chat",
+        "description": "Instant support when you need it"
+      },
+      "b2b": {
+        "title": "B2B Sales",
+        "description": "Direct contact with our CEO"
+      },
+      "global": {
+        "title": "Global Support",
+        "description": "Serving customers worldwide"
+      }
+    },
+    "b2b": {
+      "title": "B2B Sales",
+      "subtitle": "For OEM/ODM inquiries and business partnerships, contact our CEO directly",
+      "ceo": {
+        "name": "Ryan",
+        "title": "HankSound CEO",
+        "emailLabel": "Email",
+        "forLabel": "For",
+        "forDescription": "OEM/ODM or other business inquiries",
+        "contactButton": "Contact HankSound CEO"
+      },
+      "whyChoose": {
+        "title": "Why Choose HankSound for B2B?",
+        "description": "With over 15 years of experience in OEM/ODM services, we provide comprehensive wireless audio solutions that meet the highest industry standards."
+      },
+      "features": {
+        "oemOdm": {
+          "title": "OEM/ODM Services"
+        },
+        "oemOdmDesc": "Custom audio solutions tailored to your brand requirements",
+        "partnerships": {
+          "title": "Business Partnerships"
+        },
+        "partnershipsDesc": "Long-term partnerships for mutual growth and success",
+        "ceoContact": {
+          "title": "Direct CEO Contact"
+        },
+        "ceoContactDesc": "Personal attention from our leadership team",
+        "prioritySupport": {
+          "title": "Priority Support"
+        },
+        "prioritySupportDesc": "Dedicated support for business inquiries and technical assistance"
+      },
+      "cta": {
+        "title": "Ready to Start Your Project?",
+        "description": "Contact us today to discuss your requirements and discover how HankSound can help bring your audio vision to life.",
+        "button": "Start Your Inquiry"
+      }
+    }
+  },
+  "footer": {
+    "company": "HankSound",
+    "description": "Professional multiroom audio solution provider",
+    "allRightsReserved": "All rights reserved"
+  },
+  "solutions": {
+    "hero": {
+      "title": "Wireless Streaming Audio Solutions Expert",
+      "subtitle": "Are you looking for a wireless audio streaming solution that is easy to integrate, with powerful features and easy to use at the same time? You have come to the right place!",
+      "description": "HankSound offers an easy to use yet powerful and reliable features and simple to integrate wireless audio streaming solution.",
+      "getQuotation": "Get Quotation Now",
+      "learnMore": "Learn More",
+      "sectionTitle": "Wireless audio streaming provide audio solutions applications",
+      "technologies": {
+        "wifi": {
+          "title": "WiFi Streaming",
+          "description": "High-speed wireless connectivity"
+        },
+        "bluetooth": {
+          "title": "Bluetooth Audio",
+          "description": "Bluetooth 5.0 streaming"
+        },
+        "auracast": {
+          "title": "Auracast",
+          "description": "Next-gen audio broadcasting"
+        },
+        "mobile": {
+          "title": "Mobile Control",
+          "description": "App-based control"
+        }
+      }
+    },
+    "applications": {
+      "title": "Application Scenarios",
+      "subtitle": "Our wireless audio solutions are designed for various environments and use cases",
+      "categories": {
+        "villa": {
+          "title": "Villa",
+          "description": "Luxury home audio systems for premium residential properties"
+        },
+        "home": {
+          "title": "Home",
+          "description": "Complete home audio solutions for everyday living"
+        },
+        "resort": {
+          "title": "Resort",
+          "description": "Professional audio systems for hospitality and tourism"
+        },
+        "restaurant": {
+          "title": "Restaurant",
+          "description": "Ambient audio solutions for dining experiences"
+        },
+        "garden": {
+          "title": "Garden",
+          "description": "Outdoor audio systems for garden and patio areas"
+        },
+        "mall": {
+          "title": "Mall",
+          "description": "Commercial audio systems for shopping centers"
+        },
+        "hotel": {
+          "title": "Hotel",
+          "description": "Hospitality audio solutions for guest experiences"
+        },
+        "office": {
+          "title": "Office",
+          "description": "Professional audio systems for workplace environments"
+        }
+      },
+      "customSolutions": {
+        "title": "Custom Solutions for Every Environment",
+        "description": "Whether you need audio for a small home office or a large commercial space, our wireless streaming solutions can be customized to meet your specific requirements and provide exceptional audio quality in any setting."
+      }
+    },
+    "advantages": {
+      "title": "Why Choose Our Solutions",
+      "subtitle": "We provide comprehensive wireless audio streaming solutions with cutting-edge technology",
+      "categories": {
+        "development": {
+          "title": "Development",
+          "description": "We keep on investing new ideas and technology into our products, to let you have a wide range of products to choose from that best fit your project."
+        },
+        "update": {
+          "title": "Update",
+          "description": "We update our software through OTA in regular basis, we continuously fix bugs, improve user experience and implement new features."
+        },
+        "stability": {
+          "title": "Stability",
+          "description": "Our devices are designed to work for 24/7, you can continuously play music nonstop and access to control the system anytime you want."
+        },
+        "smartHome": {
+          "title": "Smart Home Solutions",
+          "description": "We provide API documents for easy integration, we also have drivers for smart home system. If you have function request or want to integrate to a smart home system, we can help you do that."
+        },
+        "costEffective": {
+          "title": "Cost Effective",
+          "description": "Our solutions offer excellent value for money, providing professional-grade audio quality at competitive prices."
+        },
+        "fastDelivery": {
+          "title": "Fast Delivery",
+          "description": "We understand the importance of timely delivery and work efficiently to meet your project deadlines."
+        }
+      },
+      "stats": {
+        "yearsExperience": "Years Experience",
+        "productsAvailable": "Products Available",
+        "countriesServed": "Countries Served",
+        "supportAvailable": "Support Available"
+      }
+    },
+    "technologies": {
+      "title": "Technologies We Can Provide For Wireless Audio Streaming Solution",
+      "subtitle": "Comprehensive audio technology stack for modern wireless streaming solutions",
+      "categories": {
+        "wireless": {
+          "title": "Wireless Connectivity",
+          "description": "WiFi, Bluetooth, and Auracast technologies"
+        },
+        "audio": {
+          "title": "Audio Processing",
+          "description": "High-quality amplification and processing"
+        },
+        "mobile": {
+          "title": "Mobile Control",
+          "description": "iOS and Android applications"
+        },
+        "smart": {
+          "title": "Smart Integration",
+          "description": "Home automation and API integration"
+        },
+        "wifi6": {
+          "title": "WiFi 6 Technology",
+          "description": "Latest WiFi standard for faster, more reliable connections"
+        },
+        "bluetooth52": {
+          "title": "Bluetooth 5.2",
+          "description": "Enhanced audio quality and extended range"
+        },
+        "auracast": {
+          "title": "Auracast Support",
+          "description": "Next-generation audio broadcasting technology"
+        },
+        "ota": {
+          "title": "OTA Updates",
+          "description": "Over-the-air firmware updates for continuous improvement"
+        }
+      },
+      "highlight": {
+        "title": "AUDIO TECHNOLOGY",
+        "description": "Our comprehensive audio technology stack ensures the highest quality wireless streaming experience with support for lossless audio formats, multi-zone synchronization, and seamless integration with existing systems."
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Audio Experience?",
+      "subtitle": "Get in touch with our team to discuss your wireless audio streaming needs",
+      "getQuote": "Get Quote",
+      "contactUs": "Contact Us",
+      "email": {
+        "title": "Email Us",
+        "description": "Send us your requirements and we'll provide a detailed quotation within 24 hours."
+      },
+      "phone": {
+        "title": "Call Us",
+        "description": "Available Monday to Friday, 9:00 AM to 6:00 PM (GMT+8)."
+      },
+      "benefits": {
+        "quickResponse": {
+          "title": "Quick Response",
+          "description": "Get quotation within 24 hours"
+        },
+        "experience": {
+          "title": "Years Experience",
+          "description": "Professional audio solutions"
+        },
+        "products": {
+          "title": "Products",
+          "description": "Wide range of solutions"
+        }
+      }
+    }
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "getQuote": "Get Quote",
+    "viewAll": "View All",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "Sorry, the page you are looking for does not exist or has been moved.",
+    "backToHome": "Back to Home",
+    "goBack": "Go Back",
+    "helpText": "If you believe this is an error, please contact our support team."
+  }
+}

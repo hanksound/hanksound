@@ -1,0 +1,582 @@
+{
+  "navigation": {
+    "home": "ホーム",
+    "solutions": "ソリューション",
+    "products": "製品",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "title": "ワイヤレスオーディオシステム",
+    "subtitle": "15年のODM OEMオーディオアンプ",
+    "description": "15年以上のOEM/ODM経験を持つプロフェッショナルなマルチルームオーディオソリューションプロバイダー。プライベートモデルとアプリ開発サービスを提供します。",
+    "getStarted": "始める",
+    "watchDemo": "デモを見る",
+    "amplifier": "アンプ",
+    "streamer": "ストリーマー",
+    "board": "ボード",
+    "module": "モジュール",
+    "wifi": "WiFi",
+    "bluetooth": "Bluetooth",
+    "app": "アプリ"
+  },
+  "about": {
+    "title": "なぜHankSoundを選ぶのか？",
+    "description": "私たちは、プロフェッショナルなサービスと革新的な技術で最高品質のマルチルームオーディオソリューションを提供することに取り組んでいます。",
+    "features": {
+      "professionalTeam": {
+        "title": "プロフェッショナルチーム",
+        "description": "15年以上のOEM/ODM経験を持つ専任のR&Dチーム"
+      },
+      "qualityProducts": {
+        "title": "高品質製品",
+        "description": "最先端技術と高品質なオーディオソリューション"
+      },
+      "quickResponse": {
+        "title": "迅速な対応",
+        "description": "すべてのお客様のお問い合わせに迅速でプロフェッショナルな対応"
+      },
+      "customSolutions": {
+        "title": "カスタムソリューション",
+        "description": "お客様のニーズに合わせたプライベートモデルとアプリ開発サービス"
+      }
+    }
+  },
+  "solutions": {
+    "hero": {
+      "title": "ワイヤレスストリーミングオーディオソリューション専門家",
+      "subtitle": "統合が簡単で、強力な機能を持ち、同時に使いやすいワイヤレスオーディオストリーミングソリューションをお探しですか？正しい場所に来ました！",
+      "description": "HankSoundは、使いやすく、強力で信頼性の高い機能と、統合が簡単なワイヤレスオーディオストリーミングソリューションを提供します。",
+      "getQuotation": "今すぐ見積もりを取得",
+      "learnMore": "詳細を見る",
+      "sectionTitle": "ワイヤレスオーディオストリーミングが提供するオーディオソリューションアプリケーション",
+      "technologies": {
+        "wifi": {
+          "title": "WiFiストリーミング",
+          "description": "高速ワイヤレス接続"
+        },
+        "bluetooth": {
+          "title": "Bluetoothオーディオ",
+          "description": "Bluetooth 5.0ストリーミング"
+        },
+        "auracast": {
+          "title": "Auracast",
+          "description": "次世代オーディオ放送"
+        },
+        "mobile": {
+          "title": "モバイルコントロール",
+          "description": "アプリベースのコントロール"
+        }
+      }
+    },
+    "applications": {
+      "title": "アプリケーションシナリオ",
+      "subtitle": "私たちのワイヤレスオーディオソリューションは、様々な環境とユースケースのために設計されています",
+      "categories": {
+        "villa": {
+          "title": "ヴィラ",
+          "description": "高級住宅物件向けの高級ホームオーディオシステム"
+        },
+        "home": {
+          "title": "ホーム",
+          "description": "日常生活のための完全なホームオーディオソリューション"
+        },
+        "resort": {
+          "title": "リゾート",
+          "description": "ホスピタリティと観光業向けのプロフェッショナルオーディオシステム"
+        },
+        "restaurant": {
+          "title": "レストラン",
+          "description": "ダイニング体験のためのアンビエントオーディオソリューション"
+        },
+        "garden": {
+          "title": "ガーデン",
+          "description": "ガーデンとパティオエリア向けのアウトドアオーディオシステム"
+        },
+        "mall": {
+          "title": "モール",
+          "description": "ショッピングセンター向けの商業オーディオシステム"
+        },
+        "hotel": {
+          "title": "ホテル",
+          "description": "ゲスト体験向けのホスピタリティオーディオソリューション"
+        },
+        "office": {
+          "title": "オフィス",
+          "description": "職場環境向けのプロフェッショナルオーディオシステム"
+        }
+      },
+      "customSolutions": {
+        "title": "あらゆる環境のためのカスタムソリューション",
+        "description": "小さなホームオフィスのオーディオから大きな商業スペースのオーディオまで、私たちのワイヤレスストリーミングソリューションは、お客様の具体的な要件に合わせてカスタマイズでき、あらゆる環境で卓越したオーディオ品質を提供します。"
+      }
+    },
+    "advantages": {
+      "title": "なぜ私たちのソリューションを選ぶのか",
+      "subtitle": "最先端技術を備えた包括的なワイヤレスオーディオストリーミングソリューションを提供",
+      "categories": {
+        "development": {
+          "title": "開発",
+          "description": "私たちは製品に新しいアイデアと技術を継続的に投資し、お客様のプロジェクトに最適な幅広い製品を選択できるようにしています。"
+        },
+        "update": {
+          "title": "更新",
+          "description": "私たちは定期的にOTAでソフトウェアを更新し、継続的にバグを修正し、ユーザー体験を改善し、新機能を実装しています。"
+        },
+        "stability": {
+          "title": "安定性",
+          "description": "私たちのデバイスは24/7で動作するように設計されており、音楽を連続的に途切れることなく再生し、いつでもシステムにアクセスしてコントロールできます。"
+        },
+        "smartHome": {
+          "title": "スマートホームソリューション",
+          "description": "簡単な統合のためのAPIドキュメントを提供し、スマートホームシステム用のドライバーも持っています。機能リクエストやスマートホームシステムへの統合をご希望の場合は、お手伝いします。"
+        },
+        "costEffective": {
+          "title": "コスト効果",
+          "description": "私たちのソリューションは優れたコストパフォーマンスを提供し、競争力のある価格でプロフェッショナルグレードのオーディオ品質を提供します。"
+        },
+        "fastDelivery": {
+          "title": "迅速な配送",
+          "description": "私たちは迅速な配送の重要性を理解し、お客様のプロジェクトの締切を満たすために効率的に作業します。"
+        }
+      },
+      "stats": {
+        "yearsExperience": "年の経験",
+        "productsAvailable": "利用可能製品",
+        "countriesServed": "サービス国",
+        "supportAvailable": "利用可能サポート"
+      }
+    },
+    "technologies": {
+      "title": "ワイヤレスオーディオストリーミングソリューションで提供できる技術",
+      "subtitle": "現代のワイヤレスストリーミングソリューションのための包括的なオーディオ技術スタック",
+      "categories": {
+        "wireless": {
+          "title": "ワイヤレス接続",
+          "description": "WiFi、Bluetooth、Auracast技術"
+        },
+        "audio": {
+          "title": "オーディオ処理",
+          "description": "高品質増幅と処理"
+        },
+        "mobile": {
+          "title": "モバイルコントロール",
+          "description": "iOSとAndroidアプリケーション"
+        },
+        "smart": {
+          "title": "スマート統合",
+          "description": "ホームオートメーションとAPI統合"
+        },
+        "wifi6": {
+          "title": "WiFi 6技術",
+          "description": "より高速で信頼性の高い接続のための最新WiFi標準"
+        },
+        "bluetooth52": {
+          "title": "Bluetooth 5.2",
+          "description": "強化されたオーディオ品質と拡張範囲"
+        },
+        "auracast": {
+          "title": "Auracastサポート",
+          "description": "次世代オーディオ放送技術"
+        },
+        "ota": {
+          "title": "OTA更新",
+          "description": "継続的改善のための空中ファームウェア更新"
+        }
+      },
+      "highlight": {
+        "title": "オーディオ技術",
+        "description": "私たちの包括的なオーディオ技術スタックは、ロスレスオーディオフォーマット、マルチゾーン同期、既存システムとのシームレスな統合をサポートして、最高品質のワイヤレスストリーミング体験を保証します。"
+      }
+    },
+    "cta": {
+      "title": "オーディオ体験を変革する準備はできましたか？",
+      "subtitle": "私たちのチームと連絡を取り、ワイヤレスオーディオストリーミングのニーズについて話し合いましょう",
+      "getQuote": "見積もりを取得",
+      "contactUs": "お問い合わせ",
+      "email": {
+        "title": "メール送信",
+        "description": "要件を送信していただければ、24時間以内に詳細な見積もりを提供します。"
+      },
+      "phone": {
+        "title": "お電話",
+        "description": "月曜日から金曜日、午前9:00から午後6:00（GMT+8）まで利用可能です。"
+      },
+      "benefits": {
+        "quickResponse": {
+          "title": "迅速な対応",
+          "description": "24時間以内に見積もりを取得"
+        },
+        "experience": {
+          "title": "年の経験",
+          "description": "プロフェッショナルオーディオソリューション"
+        },
+        "products": {
+          "title": "製品",
+          "description": "幅広いソリューション"
+        }
+      }
+    }
+  },
+  "products": {
+    "title": "私たちの製品",
+    "description": "あらゆるニーズに対応する包括的なワイヤレスオーディオソリューション",
+    "viewAll": "すべての製品を見る",
+    "hero": {
+      "title": "ワイヤレスサウンドシステム",
+      "subtitle": "プロフェッショナルなワイヤレスオーディオ機器",
+      "description": "アンプからスピーカーまで、完全なワイヤレスオーディオ製品ラインを提供",
+      "features": {
+        "amplifiers": {
+          "title": "ワイヤレスアンプ",
+          "description": "高品質なマルチルームオーディオアンプ"
+        },
+        "wifi": {
+          "title": "Wi-Fi接続",
+          "description": "安定したワイヤレスネットワーク接続"
+        },
+        "bluetooth": {
+          "title": "Bluetoothオーディオ",
+          "description": "現代デバイスとの簡単な接続"
+        }
+      }
+    },
+    "categories": {
+      "title": "私たちの製品カテゴリー",
+      "subtitle": "あらゆるニーズに対応する包括的なワイヤレスオーディオソリューション",
+      "keyFeatures": "主要機能",
+      "productsInCategory": "このカテゴリーの製品",
+      "amplifier": {
+        "title": "ワイヤレスオーディオアンプ",
+        "description": "マルチルームセットアップ用の高品質ワイヤレスオーディオアンプ"
+      },
+      "amplifierProducts": [
+        "A100 ワイヤレスマルチルームフルデジタルHiFiアンプ",
+        "H50 ワイヤレスマルチルームフルデジタルHiFiアンプ", 
+        "M50 80Wx2 ハイレゾワイヤレスステレオアンプ",
+        "A50+ マルチゾーンアンプ",
+        "A30+ ワイヤレスオーディオアンプ",
+        "B50 BTステレオアンプ（Auracast送信機付き）",
+        "B50SE BTステレオアンプ",
+        "SA50+ ワイヤレスマルチゾーンアンプ",
+        "SA50+ ワイヤレスオーディオアンプ"
+      ],
+      "amplifierFeatures": ["マルチルームオーディオ", "ハイレゾ", "Wi-Fi & Bluetooth", "デジタル処理"],
+      "preamplifier": {
+        "title": "ワイヤレスオーディオプリアンプ",
+        "description": "先進的なワイヤレスオーディオストリーマーとプリアンプ"
+      },
+      "preamplifierProducts": [
+        "LP10 ワイヤレスミュージックストリーマー",
+        "BT10 ワイヤレスオーディオ送信機",
+        "BR10 ワイヤレスオーディオミュージックストリーマー",
+        "BP50 ワイヤレスステレオプリアンプ（オーディオ送信機付き）",
+        "S10+ ワイヤレスネットワークストリーマー",
+        "S50 Pro+ ワイヤレスオーディオストリーマー"
+      ],
+      "preamplifierFeatures": ["Google Cast", "AirPlay 2", "DLNAサポート", "ハイレゾオーディオ"],
+      "networkDevice": {
+        "title": "ネットワークオーディオデバイス",
+        "description": "商業用途向けのプロフェッショナルネットワークオーディオデバイス"
+      },
+      "networkDeviceProducts": [
+        "HA400 ネットワーク4ゾーンアンプ",
+        "H400 ネットワーク4ゾーンプリアンプ"
+      ],
+      "networkDeviceFeatures": ["4ゾーンコントロール", "RS-232統合", "プロフェッショナルグレード", "自動化対応"],
+      "speaker": {
+        "title": "スピーカー",
+        "description": "あらゆる環境に対応する高性能ワイヤレススピーカー"
+      },
+      "speakerProducts": [
+        "WBC65 6.5インチワイヤレスマルチルーム天井スピーカー",
+        "CK30C 3インチHD天井埋め込みスピーカー",
+        "RK525 5.25インチ2ウェイ60Wフルレンジ天井埋め込みスピーカー"
+      ],
+      "speakerFeatures": ["天井取り付け", "ワイヤレスマルチルーム", "ハイデフィニション", "簡単インストール"],
+      "audioBoard": {
+        "title": "ワイヤレスオーディオボード",
+        "description": "カスタムオーディオソリューション用のモジュラーオーディオボード"
+      },
+      "audioBoardProducts": [
+        "Up2Cast AmpマルチストリームLEオーディオボード",
+        "ワイヤレスオーディオボードMini",
+        "ワイヤレスオーディオボードPro",
+        "ワイヤレスオーディオボード2.0 AMP",
+        "ワイヤレスオーディオボード2.1サウンドストリームアンプ",
+        "ワイヤレスオーディオボードAMPモノ",
+        "ワイヤレスオーディオプレートAMP 2.1",
+        "ワイヤレスオーディオボードHD DAC"
+      ],
+      "audioBoardFeatures": ["DIYフレンドリー", "モジュラーデザイン", "カスタムソリューション", "簡単統合"],
+      "audioModule": {
+        "title": "ワイヤレスオーディオモジュール",
+        "description": "オーディオ統合用のコンパクトWi-Fiモジュール"
+      },
+      "audioModuleProducts": [
+        "Wi-FiモジュールA31",
+        "Wi-FiモジュールA97",
+        "Wi-FiモジュールA98"
+      ],
+      "audioModuleFeatures": ["コンパクトサイズ", "Wi-Fi対応", "簡単統合", "コスト効果的"]
+    },
+    "showcase": {
+      "title": "注目製品",
+      "subtitle": "私たちの人気ワイヤレスオーディオソリューションを発見",
+      "keyFeatures": "主要機能",
+      "learnMore": "詳細を見る",
+      "products": {
+        "amplifier": {
+          "title": "ワイヤレスステレオアンプ"
+        },
+        "amplifierSubtitle": "ステレオアンプの進化",
+        "amplifierDescription": "ステレオアンプは長い道のりを歩んできました。現在はデジタル技術を受け入れ、音楽ソースがラップトップ、スマートフォン、ストリーミングサービスを含むように進化するにつれて時代に合わせています。",
+        "amplifierFeatures": [
+          "内蔵デジタル-アナログコンバーター（DAC）",
+          "直接接続用USBポート",
+          "BluetoothとWi-Fiストリーミング機能",
+          "ハイレゾオーディオサポート",
+          "マルチルームオーディオ機能"
+        ],
+        "amplifierProductName": "BTオーディオアンプA50",
+        "preamplifier": {
+          "title": "ワイヤレスオーディオプリアンプ"
+        },
+        "preamplifierSubtitle": "Hi-Fiシステムを活性化",
+        "preamplifierDescription": "HankSoundのワイヤレスプリアンプは、古いHi-Fiシステムに新しい命を吹き込みます。ストリーミングサービスを含む多様なオンラインコンテンツとローカルオーディオへのアクセスを提供し、システムを現代に導きます。",
+        "preamplifierFeatures": [
+          "オンラインストリーミングサービスへのアクセス",
+          "ローカルオーディオライブラリサポート",
+          "現代デバイスとのシームレスな統合",
+          "簡単なセットアップとコントロール",
+          "既存システムの機能強化"
+        ],
+        "preamplifierProductName": "LP10 Google Castストリーマー",
+        "networkDevice": {
+          "title": "ネットワークオーディオデバイス"
+        },
+        "networkDeviceSubtitle": "スマートエコシステム統合",
+        "networkDeviceDescription": "インテグレーター向けに設計され、RS-232と12VトリガーがControl4、Crestronなどとの自動化を可能にします。AirPlay 2とDLNAサポートにより、Apple/Sonos中心の環境との互換性を保証します。",
+        "networkDeviceFeatures": [
+          "RS-232と12Vトリガーサポート",
+          "Control4とCrestron統合",
+          "AirPlay 2とDLNA互換性",
+          "4ゾーン増幅",
+          "プロフェッショナルインストール対応"
+        ],
+        "networkDeviceProductName": "HA400 4ゾーンアンプ",
+        "speaker": {
+          "title": "ワイヤレスオーディオスピーカー"
+        },
+        "speakerSubtitle": "あらゆる空間を簡単にモダン化",
+        "speakerDescription": "HankSoundのワイヤレススピーカーは、古いオーディオセットアップを統一されたマルチルームエコシステムに変換します。配線の変更や改築なしに、すべての部屋でストリーミングサービス、ローカルライブラリ、音声コントロールを解放します。",
+        "speakerFeatures": [
+          "構造変更不要",
+          "既存の天井/壁の切り込みに適合",
+          "古いアンプとのハイブリッド互換性",
+          "全宅オーディオの自由",
+          "将来対応の統合"
+        ],
+        "speakerProductName": "ワイヤレスサラウンドスピーカー",
+        "audioBoard": {
+          "title": "ワイヤレスオーディオボード"
+        },
+        "audioBoardSubtitle": "ホームオーディオシステムを変革",
+        "audioBoardDescription": "自分のスピーカーを作ったり、古いスピーカーをワイヤレスにアップグレードしたいと思ったことはありませんか？HankSoundのワイヤレスオーディオボードなら、思っているより簡単です。",
+        "audioBoardFeatures": [
+          "DIYフレンドリーデザイン",
+          "パッシブスピーカーをワイヤレスに変換",
+          "簡単なインストールプロセス",
+          "カスタムオーディオソリューション",
+          "モジュラーで柔軟"
+        ],
+        "audioBoardProductName": "ワイヤレスオーディオボード2.0"
+      }
+    },
+    "whyChooseUs": {
+      "title": "なぜ私たちを選ぶのか？",
+      "subtitle": "比類のない価値と品質を持つプロフェッショナルオーディオソリューション",
+      "reasons": {
+        "expertise": {
+          "title": "専門知識"
+        },
+        "expertiseDesc": "HankSoundはストリーミングオーディオシステムに特化しており、独自のハードウェアとソフトウェア設計、ストリーミングオーディオサービス統合、製造を行っています。",
+        "value": {
+          "title": "最高の価値"
+        },
+        "valueDesc": "私たちの製品は他の有名ブランドと同じレベルの品質を持ちながら、価格は半分です。",
+        "updates": {
+          "title": "継続的な更新"
+        },
+        "updatesDesc": "製品ソフトウェアの継続的なアップグレードとバグ修正により、お客様の投資を最新の状態に保ちます。",
+        "customer": {
+          "title": "顧客重視"
+        },
+        "customerDesc": "ユーザーフィードバックや提案に耳を傾け、製品をより良くするためにオープンです。",
+        "quality": {
+          "title": "品質保証"
+        },
+        "qualityDesc": "厳格な品質管理プロセスを持つプロフェッショナル製造基準。",
+        "innovation": {
+          "title": "イノベーション駆動"
+        },
+        "innovationDesc": "ユーザーフィードバックや提案は、常に新しいホームオーディオ製品の良いアイデア源です。"
+      },
+      "impact": {
+        "title": "私たちの影響",
+        "subtitle": "世界中で卓越したワイヤレスオーディオソリューションを提供"
+      },
+      "stats": {
+        "categories": "製品カテゴリー",
+        "experience": "経験年数",
+        "products": "利用可能製品",
+        "countries": "サービス国"
+      },
+      "cta": {
+        "title": "オーディオ体験を変革する準備はできましたか？",
+        "description": "HankSound製品でオーディオシステムをアップグレードした何千もの満足したお客様に参加してください。比類のない価格でプロフェッショナル品質のワイヤレスオーディオを手に入れましょう。",
+        "button": "製品を探索"
+      }
+    }
+  },
+  "services": {
+    "title": "私たちのサービス",
+    "description": "コンセプトから完成まで、マルチルームオーディオのニーズに包括的なソリューションを提供します。",
+    "categories": {
+      "hardwareDesign": {
+        "title": "ハードウェア設計",
+        "description": "マルチルームオーディオソリューション用のカスタムハードウェア設計"
+      },
+      "softwareDesign": {
+        "title": "ソフトウェア設計",
+        "description": "ワイヤレスオーディオストリーミングシステムソフトウェア開発"
+      },
+      "idmdDesign": {
+        "title": "ID&MD設計",
+        "description": "オーディオ製品の工業・機械設計"
+      },
+      "appDevelopment": {
+        "title": "アプリ開発",
+        "description": "マルチゾーンオーディオシステムモバイルアプリケーション"
+      },
+      "manufacture": {
+        "title": "製造",
+        "description": "全宅オーディオシステムの完全製造サービス"
+      },
+      "componentsDistributor": {
+        "title": "コンポーネントディストリビューター",
+        "description": "マルチルームサウンドシステム用オーディオコンポーネントの流通"
+      }
+    }
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "お手伝いできることを嬉しく思います",
+    "description": "ご質問や技術サポートが必要な場合、私たちのチームがいつでもお手伝いします",
+    "name": "お名前",
+    "email": "メールアドレス",
+    "company": "会社名",
+    "message": "メッセージ",
+    "send": "メッセージを送信",
+    "phone": "電話番号",
+    "address": "住所",
+    "form": {
+      "title": "メッセージを送信",
+      "subtitle": "以下のフォームに記入してください。できるだけ早くお返事いたします",
+      "name": "お名前",
+      "email": "メールアドレス",
+      "message": "メッセージ",
+      "send": "メッセージを送信",
+      "sending": "送信中...",
+      "success": "メッセージが正常に送信されました！できるだけ早くお返事いたします。",
+      "error": "送信に失敗しました。後でもう一度お試しください。",
+      "placeholders": {
+        "name": "お名前を入力してください",
+        "email": "有効なメールアドレスを入力してください",
+        "message": "メッセージを入力してください"
+      },
+      "errors": {
+        "name": "お名前を入力してください。",
+        "email": "有効なメールアドレスを入力してください。",
+        "message": "メッセージを入力してください。"
+      }
+    },
+    "supportOptions": {
+      "email": {
+        "title": "メールサポート",
+        "description": "24時間以内の迅速な対応"
+      },
+      "liveChat": {
+        "title": "ライブチャット",
+        "description": "必要な時に即座にサポート"
+      },
+      "b2b": {
+        "title": "B2B営業",
+        "description": "CEOとの直接連絡"
+      },
+      "global": {
+        "title": "グローバルサポート",
+        "description": "世界中のお客様にサービス提供"
+      }
+    },
+    "b2b": {
+      "title": "B2B営業",
+      "subtitle": "OEM/ODMのお問い合わせやビジネスパートナーシップについては、CEOに直接お問い合わせください",
+      "ceo": {
+        "name": "Ryan",
+        "title": "HankSound CEO",
+        "emailLabel": "メール",
+        "forLabel": "対象",
+        "forDescription": "OEM/ODMまたはその他のビジネスお問い合わせ",
+        "contactButton": "HankSound CEOに連絡"
+      },
+      "whyChoose": {
+        "title": "B2BでHankSoundを選ぶ理由は？",
+        "description": "OEM/ODMサービスで15年以上の経験を持つ私たちは、最高の業界基準を満たす包括的なワイヤレスオーディオソリューションを提供します。"
+      },
+      "features": {
+        "oemOdm": {
+          "title": "OEM/ODMサービス"
+        },
+        "oemOdmDesc": "お客様のブランド要件に合わせたカスタムオーディオソリューション",
+        "partnerships": {
+          "title": "ビジネスパートナーシップ"
+        },
+        "partnershipsDesc": "相互の成長と成功のための長期パートナーシップ",
+        "ceoContact": {
+          "title": "直接CEO連絡"
+        },
+        "ceoContactDesc": "リーダーシップチームからの個人的な注意",
+        "prioritySupport": {
+          "title": "優先サポート"
+        },
+        "prioritySupportDesc": "ビジネスお問い合わせと技術支援のための専用サポート"
+      },
+      "cta": {
+        "title": "プロジェクトを始める準備はできましたか？",
+        "description": "今日お問い合わせいただき、要件について話し合い、HankSoundがお客様のオーディオビジョンを実現するお手伝いができる方法を発見してください。",
+        "button": "お問い合わせを開始"
+      }
+    }
+  },
+  "footer": {
+    "company": "HankSound",
+    "description": "プロフェッショナルなマルチルームオーディオソリューションプロバイダー",
+    "allRightsReserved": "全著作権所有"
+  },
+  "common": {
+    "learnMore": "詳細を見る",
+    "readMore": "続きを読む",
+    "getQuote": "見積もりを取得",
+    "viewAll": "すべて表示",
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "success": "成功"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "description": "申し訳ございませんが、お探しのページは存在しないか、移動された可能性があります。",
+    "backToHome": "ホームに戻る",
+    "goBack": "戻る",
+    "helpText": "これがエラーだと思われる場合は、サポートチームまでお問い合わせください。"
+  }
+}
